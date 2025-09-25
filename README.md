@@ -16,7 +16,7 @@ Similar to the MIT rule, but you may not use the copyright holder's name or the 
 Similar to GPL, but does not require copying copyright information
 
 ## CCZ
-Creative Commons Zero v1.0 Universal
+Creative Commons Zero v1.0 Universal <br>
 Give up the copyright of the work created and dedicate it to the public without making any guarantee for the code
 
 ## EPL
